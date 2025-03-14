@@ -20,3 +20,5 @@ Fat Frumos si merele de aur.
 
 
 Indicadores de saúde - Thaís Neves
+
+somos lindas

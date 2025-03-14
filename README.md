@@ -13,10 +13,10 @@ O **Arraial** é uma plataforma para gestão de eventos, permitindo que os organ
 Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
 
 
+#Essa linha é da Andressa.
 
 Fat Frumos si merele de aur.
 
 
-620ad19e330688cb1bbd313cf2ef0daaea3aff22
 
 Indicadores de saúde - Thaís Neves

@@ -1,0 +1,1 @@
+#Isso é uma instrução detalhada. Arrasem meninas!

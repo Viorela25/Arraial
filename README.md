@@ -11,3 +11,7 @@ O **Arraial** é uma plataforma para gestão de eventos, permitindo que os organ
 ## Licença
 
 Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
+
+
+
+Para saber mais sobre indicadores de saúde, contate-me: 933 169 67...

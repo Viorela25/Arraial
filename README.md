@@ -11,3 +11,5 @@ O **Arraial** é uma plataforma para gestão de eventos, permitindo que os organ
 ## Licença
 
 Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
+
+daniela 
